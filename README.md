@@ -1,2 +1,3 @@
 # Hello-world
-Just another repository
+Hi All,
+This is just a sample for what I learn from Git as first lessons 
